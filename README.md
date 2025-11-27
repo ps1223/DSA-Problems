@@ -78,11 +78,10 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 ## 🎨 Streak Calendar
 
 ### November 2025
-```
-Mon Tue Wed Thu Fri Sat Sun
-24  25  26  27  28  29  30
-            🔥
-```
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 24  | 25  | 26  | 27  | 28  | 29  | 30  |
+|     |     |     | 🔥  |     |     |     |
 
 ---
 
