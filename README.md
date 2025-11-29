@@ -5,12 +5,12 @@
 ## 📊 Progress Tracker
 
 ```
-Current Streak:     🔥 2 days
-Longest Streak:     ⭐ 2 days
-Total Problems:     💯 2
+Current Streak:     🔥 3 days
+Longest Streak:     ⭐ 3 days
+Total Problems:     💯 3
 ```
 
-**Last Updated:** November 28, 2025
+**Last Updated:** November 29, 2025
 
 ---
 
@@ -23,7 +23,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | Difficulty | Count | Percentage |
 |------------|-------|------------|
 | Easy       | 0     | 0%         |
-| Medium     | 2     | 100%       |
+| Medium     | 3     | 100%       |
 | Hard       | 0     | 0%         |
 
 ## 📚 Topics Covered
@@ -53,6 +53,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 |---|---------|------------|------|----------|
 | 1 | Group Anagrams | Medium | Nov 27, 2025 | [JavaScript](Problems/1_problem.js) |
 | 2 | Top K Frequent Elements | Medium | Nov 28, 2025 | [JavaScript](Problems/2_problem.js) |
+| 3 | Encode and Decode Strings | Medium | Nov 29, 2025 | [JavaScript](Problems/3_problem.js) |
 
 ---
 
@@ -82,7 +83,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 24  | 25  | 26  | 27  | 28  | 29  | 30  |
-|     |     |     | 🔥  | 🔥  |     |     |
+|     |     |     | 🔥  | 🔥  | 🔥  |     |
 
 ---
 
