@@ -5,12 +5,12 @@
 ## 📊 Progress Tracker
 
 ```
-Current Streak:     🔥 5 days
-Longest Streak:     ⭐ 5 days
-Total Problems:     💯 5
+Current Streak:     🔥 6 days
+Longest Streak:     ⭐ 6 days
+Total Problems:     💯 6
 ```
 
-**Last Updated:** December 1, 2025
+**Last Updated:** December 2, 2025
 
 ---
 
@@ -23,7 +23,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | Difficulty | Count | Percentage |
 |------------|-------|------------|
 | Easy       | 0     | 0%         |
-| Medium     | 5     | 100%       |
+| Medium     | 6     | 100%       |
 | Hard       | 0     | 0%         |
 
 ## 📚 Topics Covered
@@ -56,6 +56,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | 3 | Encode and Decode Strings | Medium | Nov 29, 2025 | [JavaScript](Problems/3_problem.js) |
 | 4 | Products of Array Except Self | Medium | Nov 30, 2025 | [JavaScript](Problems/4_problem.js) |
 | 5 | Valid Sudoku | Medium | Dec 1, 2025 | [JavaScript](Problems/5_problem.js) |
+| 6 | Longest Consecutive Sequence | Medium | Dec 2, 2025 | [JavaScript](Problems/6_problem.js) |
 
 ---
 
@@ -91,7 +92,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
-| 🔥  |     |     |     |     |     |     |
+| 🔥  | 🔥  |     |     |     |     |     |
 
 ---
 
