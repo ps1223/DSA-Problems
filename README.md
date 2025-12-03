@@ -5,12 +5,12 @@
 ## 📊 Progress Tracker
 
 ```
-Current Streak:     🔥 7 days
-Longest Streak:     ⭐ 7 days
-Total Problems:     💯 7
+Current Streak:     🔥 8 days
+Longest Streak:     ⭐ 8 days
+Total Problems:     💯 8
 ```
 
-**Last Updated:** December 3, 2025
+**Last Updated:** December 4, 2025
 
 ---
 
@@ -22,8 +22,8 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 
 | Difficulty | Count | Percentage |
 |------------|-------|------------|
-| Easy       | 1     | 14%        |
-| Medium     | 6     | 86%        |
+| Easy       | 1     | 12%        |
+| Medium     | 7     | 88%        |
 | Hard       | 0     | 0%         |
 
 ## 📚 Topics Covered
@@ -58,6 +58,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | 5 | Valid Sudoku | Medium | Dec 1, 2025 | [JavaScript](Problems/5_problem.js) |
 | 6 | Longest Consecutive Sequence | Medium | Dec 2, 2025 | [JavaScript](Problems/6_problem.js) |
 | 7 | Valid Palindrome | Easy | Dec 3, 2025 | [JavaScript](Problems/7_problem.js) |
+| 8 | Two Integer Sum II | Medium | Dec 4, 2025 | [JavaScript](Problems/8_problem.js) |
 
 ---
 
@@ -93,7 +94,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
-| 🔥  | 🔥  | 🔥  |     |     |     |     |
+| 🔥  | 🔥  | 🔥  | 🔥  |     |     |     |
 
 ---
 
