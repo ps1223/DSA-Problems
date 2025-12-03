@@ -5,12 +5,12 @@
 ## 📊 Progress Tracker
 
 ```
-Current Streak:     🔥 6 days
-Longest Streak:     ⭐ 6 days
-Total Problems:     💯 6
+Current Streak:     🔥 7 days
+Longest Streak:     ⭐ 7 days
+Total Problems:     💯 7
 ```
 
-**Last Updated:** December 2, 2025
+**Last Updated:** December 3, 2025
 
 ---
 
@@ -22,14 +22,14 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 
 | Difficulty | Count | Percentage |
 |------------|-------|------------|
-| Easy       | 0     | 0%         |
-| Medium     | 6     | 100%       |
+| Easy       | 1     | 14%        |
+| Medium     | 6     | 86%        |
 | Hard       | 0     | 0%         |
 
 ## 📚 Topics Covered
 
 - [x] Arrays & Hashing
-- [ ] Two Pointers
+- [x] Two Pointers
 - [ ] Sliding Window
 - [ ] Stack
 - [ ] Binary Search
@@ -57,13 +57,14 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | 4 | Products of Array Except Self | Medium | Nov 30, 2025 | [JavaScript](Problems/4_problem.js) |
 | 5 | Valid Sudoku | Medium | Dec 1, 2025 | [JavaScript](Problems/5_problem.js) |
 | 6 | Longest Consecutive Sequence | Medium | Dec 2, 2025 | [JavaScript](Problems/6_problem.js) |
+| 7 | Valid Palindrome | Easy | Dec 3, 2025 | [JavaScript](Problems/7_problem.js) |
 
 ---
 
 ## 🏆 Milestones
 
 - [x] Problem #1 - Journey begins!
-- [ ] 7-Day Streak
+- [x] 7-Day Streak
 - [ ] 30-Day Streak
 - [ ] 100-Day Streak
 - [ ] 50 Problems Solved
@@ -92,7 +93,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
-| 🔥  | 🔥  |     |     |     |     |     |
+| 🔥  | 🔥  | 🔥  |     |     |     |     |
 
 ---
 
