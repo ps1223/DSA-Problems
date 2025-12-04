@@ -5,12 +5,12 @@
 ## 📊 Progress Tracker
 
 ```
-Current Streak:     🔥 8 days
-Longest Streak:     ⭐ 8 days
-Total Problems:     💯 8
+Current Streak:     🔥 9 days
+Longest Streak:     ⭐ 9 days
+Total Problems:     💯 9
 ```
 
-**Last Updated:** December 4, 2025
+**Last Updated:** December 5, 2025
 
 ---
 
@@ -22,8 +22,8 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 
 | Difficulty | Count | Percentage |
 |------------|-------|------------|
-| Easy       | 1     | 12%        |
-| Medium     | 7     | 88%        |
+| Easy       | 1     | 11%        |
+| Medium     | 8     | 89%        |
 | Hard       | 0     | 0%         |
 
 ## 📚 Topics Covered
@@ -59,6 +59,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | 6 | Longest Consecutive Sequence | Medium | Dec 2, 2025 | [JavaScript](Problems/6_problem.js) |
 | 7 | Valid Palindrome | Easy | Dec 3, 2025 | [JavaScript](Problems/7_problem.js) |
 | 8 | Two Integer Sum II | Medium | Dec 4, 2025 | [JavaScript](Problems/8_problem.js) |
+| 9 | Container With Most Water | Medium | Dec 5, 2025 | [JavaScript](Problems/9_problem.js) |
 
 ---
 
@@ -94,7 +95,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
-| 🔥  | 🔥  | 🔥  | 🔥  |     |     |     |
+| 🔥  | 🔥  | 🔥  | 🔥  | 🔥  |     |     |
 
 ---
 
