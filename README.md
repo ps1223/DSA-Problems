@@ -5,12 +5,12 @@
 ## 📊 Progress Tracker
 
 ```
-Current Streak:     🔥 10 days
-Longest Streak:     ⭐ 10 days
-Total Problems:     💯 10
+Current Streak:     🔥 11 days
+Longest Streak:     ⭐ 11 days
+Total Problems:     💯 11
 ```
 
-**Last Updated:** December 6, 2025
+**Last Updated:** December 7, 2025
 
 ---
 
@@ -22,9 +22,9 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 
 | Difficulty | Count | Percentage |
 |------------|-------|------------|
-| Easy       | 2     | 20%        |
-| Medium     | 8     | 80%        |
-| Hard       | 0     | 0%         |
+| Easy       | 2     | 18%        |
+| Medium     | 8     | 73%        |
+| Hard       | 1     | 9%         |
 
 ## 📚 Topics Covered
 
@@ -61,6 +61,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | 8 | Two Integer Sum II | Medium | Dec 4, 2025 | [JavaScript](Problems/8_problem.js) |
 | 9 | Container With Most Water | Medium | Dec 5, 2025 | [JavaScript](Problems/9_problem.js) |
 | 10 | Count Partitions with Even Sum Difference | Easy | Dec 6, 2025 | [JavaScript](Problems/10_problem.js) |
+| 11 | Trapping Rain Water | Hard | Dec 7, 2025 | [JavaScript](Problems/11_problem.js) |
 
 ---
 
@@ -96,7 +97,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
-| 🔥  | 🔥  | 🔥  | 🔥  | 🔥  | 🔥  |     |
+| 🔥  | 🔥  | 🔥  | 🔥  | 🔥  | 🔥  | 🔥  |
 
 ---
 
