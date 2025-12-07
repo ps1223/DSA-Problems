@@ -18,7 +18,7 @@
 
 */
 
-const findTrappedWaterVolume = (input) => {
+const findTrappedWaterVolume = (height) => {
 
     let left = 0, right = height.length - 1;
     let leftMax = 0, rightMax = 0;
