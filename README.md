@@ -5,12 +5,12 @@
 ## 📊 Progress Tracker
 
 ```
-Current Streak:     🔥 12 days
-Longest Streak:     ⭐ 12 days
-Total Problems:     💯 12
+Current Streak:     🔥 13 days
+Longest Streak:     ⭐ 13 days
+Total Problems:     💯 13
 ```
 
-**Last Updated:** December 8, 2025
+**Last Updated:** December 9, 2025
 
 ---
 
@@ -22,15 +22,15 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 
 | Difficulty | Count | Percentage |
 |------------|-------|------------|
-| Easy       | 3     | 25%        |
-| Medium     | 8     | 67%        |
+| Easy       | 3     | 23%        |
+| Medium     | 9     | 69%        |
 | Hard       | 1     | 8%         |
 
 ## 📚 Topics Covered
 
 - [x] Arrays & Hashing
 - [x] Two Pointers
-- [ ] Sliding Window
+- [x] Sliding Window
 - [ ] Stack
 - [ ] Binary Search
 - [ ] Linked Lists
@@ -63,6 +63,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | 10 | Count Partitions with Even Sum Difference | Easy | Dec 6, 2025 | [JavaScript](Problems/10_problem.js) |
 | 11 | Trapping Rain Water | Hard | Dec 7, 2025 | [JavaScript](Problems/11_problem.js) |
 | 12 | Best Time to Buy and Sell Stock | Easy | Dec 8, 2025 | [JavaScript](Problems/12_problem.js) |
+| 13 | Longest Substring Without Repeating Characters | Medium | Dec 9, 2025 | [JavaScript](Problems/13_problem.js) |
 
 ---
 
@@ -99,8 +100,8 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
 | 🔥  | 🔥  | 🔥  | 🔥  | 🔥  | 🔥  | 🔥  |
-| 8   |     |     |     |     |     |     |
-| 🔥  |     |     |     |     |     |     |
+| 8   | 9   |     |     |     |     |     |
+| 🔥  | 🔥  |     |     |     |     |     |
 
 ---
 
