@@ -5,12 +5,12 @@
 ## 📊 Progress Tracker
 
 ```
-Current Streak:     🔥 13 days
-Longest Streak:     ⭐ 13 days
-Total Problems:     💯 13
+Current Streak:     🔥 14 days
+Longest Streak:     ⭐ 14 days
+Total Problems:     💯 14
 ```
 
-**Last Updated:** December 9, 2025
+**Last Updated:** December 10, 2025
 
 ---
 
@@ -22,9 +22,9 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 
 | Difficulty | Count | Percentage |
 |------------|-------|------------|
-| Easy       | 3     | 23%        |
-| Medium     | 9     | 69%        |
-| Hard       | 1     | 8%         |
+| Easy       | 3     | 21%        |
+| Medium     | 10    | 72%        |
+| Hard       | 1     | 7%         |
 
 ## 📚 Topics Covered
 
@@ -64,6 +64,7 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 | 11 | Trapping Rain Water | Hard | Dec 7, 2025 | [JavaScript](Problems/11_problem.js) |
 | 12 | Best Time to Buy and Sell Stock | Easy | Dec 8, 2025 | [JavaScript](Problems/12_problem.js) |
 | 13 | Longest Substring Without Repeating Characters | Medium | Dec 9, 2025 | [JavaScript](Problems/13_problem.js) |
+| 14 | Longest Repeating Character Replacement | Medium | Dec 10, 2025 | [JavaScript](Problems/14_problem.js) |
 
 ---
 
@@ -100,8 +101,8 @@ Master Data Structures & Algorithms through consistent daily practice. This repo
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
 | 🔥  | 🔥  | 🔥  | 🔥  | 🔥  | 🔥  | 🔥  |
-| 8   | 9   |     |     |     |     |     |
-| 🔥  | 🔥  |     |     |     |     |     |
+| 8   | 9   | 10  |     |     |     |     |
+| 🔥  | 🔥  | 🔥  |     |     |     |     |
 
 ---
 
