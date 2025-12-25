@@ -7,23 +7,37 @@ Solutions for Advent of Code challenges across multiple years.
 | Day | Part 1 | Part 2 | Notes |
 |-----|--------|--------|-------|
 | 1   | ⭐     | ⭐     |       |
-| 2   | ⭐     | ⭐     | Invalid Product IDs - Pattern Detection |
+| 2   | ⭐     | ⭐     |       |
 | 3   | ⭐     | ⭐     |       |
 | 4   | ⭐     | ⭐     |       |
 | 5   | ⭐     | ⭐     |       |
 | 6   | ⭐     | ⭐     |       |
 | 7   | ⭐     | ⭐     |       |
 | 8   | ⭐     | ⭐     |       |
-| 9   | ⭐     | ⭐     |       |
-| 10  | ⭐     | ⭐     |       |
+| 9   | ⭐     | ⭐     | Part 2 in Jupyter notebook |
+| 10  | ⭐     | ⭐     | Part 2 in Jupyter notebook |
 | 11  | ⭐     | ⭐     |       |
-| 12  | ⭐     | ⭐     |       |
+| 12  | ⭐     | ⭐     | Part 2 auto-solved by AoC |
 
 **Note**: The 2025 edition features only 12 days instead of the traditional 25.
 
-## Other Years
+## 2015 Progress
 
-Working on solutions from previous Advent of Code years.
+| Day | Part 1 | Part 2 | Notes |
+|-----|--------|--------|-------|
+| 1   | ⭐     | ⭐     |       |
+| 2   | ⭐     | ⭐     |       |
+| 3   | ⭐     | ⭐     |       |
+| 4   | ⭐     | ⭐     | Python |
+| 5   | ⭐     | ⭐     |       |
+| 6   | ⭐     | ⭐     |       |
+| 7   | ❌     | ❌     |       |
+| 8   | ❌     | ❌     |       |
+| 9   | ❌     | ❌     |       |
+| 10  | ❌     | ❌     |       |
+| 11  | ❌     | ❌     |       |
+| 12  | ❌     | ❌     |       |
+| ... | ❌     | ❌     |       |
 
 ## File Structure
 
